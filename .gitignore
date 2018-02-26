@@ -6,6 +6,7 @@ GLOVE
 GLOVE/*
 W2V
 W2V/*
+*.mdl
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
