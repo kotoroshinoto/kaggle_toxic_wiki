@@ -1,6 +1,11 @@
 RAW
 RAW/*
-
+CLEAN
+CLEAN/*
+GLOVE
+GLOVE/*
+W2V
+W2V/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
